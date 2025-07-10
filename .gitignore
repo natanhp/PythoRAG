@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Virtual environment files
+pip-selfcheck.json
+PyPIrc
+
+# Development settings
+settings.ini
+setup.cfg
+
+# Log files
+*.log
+logs/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build/compilation artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+.cache
+.pytest_cache
+.coverage
+htmlcov/
+
+# Documentation
+docs/_build/
+
+# MacOS
+.DS_Store
+
+# Test files
+test.db
+test.sqlite
+
+# Docker
+docker-compose.override.yml
+.env.docker
+
+# Python packaging and installation
+*.manifest
+*.spec
+
+documents
